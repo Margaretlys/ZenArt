@@ -6,21 +6,10 @@ The project aims to provide a simple, secure, and user-friendly platform where u
 🚀 Key Features
 
 NFT Minting – create unique NFTs directly on ZenChain.
-
 Marketplace – list, buy, and sell NFTs in a decentralized environment.
-
 User-Friendly UI – clean, intuitive interface for easy navigation.
-
 Low Fees & Fast Transactions – powered by ZenChain’s high-performance L1 blockchain.
 
-🔧 Tech Stack
+🚀 Vision
 
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP, MySQL (planned)
-
-Blockchain Integration: ZenChain SDK (planned)
-
-Design: Custom UI/UX
-
-🌱 Roadmap
+ZenArt’s mission is to expand the NFT ecosystem on ZenChain by providing developers, creators, and collectors with a reliable and accessible platform.
